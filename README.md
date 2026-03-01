@@ -3,7 +3,7 @@
 # 🐧 Hi, I'm Regina! 
 **CS Student @ Tec de Monterrey | Data & CRM @ Tutator Fondation | Future Computational Neuroscientist**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/regina-lechuga-esparza-035843321)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reginalechugauni@gmail.com)
 
 </div>
