@@ -48,18 +48,6 @@ Lately, I've been interested in **open source**. I believe in learning from the 
 - **La Fila UI/UX Redesign:**  Modernized the UI/UX for a Mexican company to improve user retention
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-
-![Regina's Stats](https://github-readme-stats.vercel.app/api?username=Regina988&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Regina988&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
   <sub>Let's connect! I'm always looking for hackathons, research opportunities, or ways to collaborate in open source projects </sub>
 </div>
