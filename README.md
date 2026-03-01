@@ -30,7 +30,7 @@ Lately, I've been interested in **open source**. I believe in learning from the 
 
 ---
 
-### 🛠️ Technical Stack
+### 🦀 Technical Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -40,7 +40,7 @@ Lately, I've been interested in **open source**. I believe in learning from the 
 
 ---
 
-### 🌟 Highlights
+### 🐙 Highlights
 
 - **NASA SpaceApps Global Nominee:** Co-developed a Ren'Py visual novel teaching kids about exoplanets
 - **DigiEduHack Local Winner:s** Designed an offline education app for indigenous communities (Riwi)
