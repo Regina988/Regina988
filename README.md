@@ -43,7 +43,7 @@ Lately, I've been interested in **open source**. I believe in learning from the 
 ### 🐙 Highlights
 
 - **NASA SpaceApps Global Nominee:** Co-developed a Ren'Py visual novel teaching kids about exoplanets
-- **DigiEduHack Local Winner:s** Designed an offline education app for indigenous communities (Riwi)
+- **DigiEduHack Local Winner:** Designed an offline education app for indigenous communities (Riwi)
 - **990 NGO Analysis:**  Built a Python web scraper to extract and classify IRS 990 reports for NGO partner identification
 - **La Fila UI/UX Redesign:**  Modernized the UI/UX for a Mexican company to improve user retention
 ---
