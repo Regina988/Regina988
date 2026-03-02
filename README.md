@@ -15,7 +15,7 @@
 
 I'm a Computer Science student from Chihuahua, Mexico, currently working remotely with Tutator Fondation in Switzerland, building software solutions for NGOs. I started as an intern and earned a full-time role as Data & CRM Assistant, where I now help deploy the organization's redesigned website.
 
-I'm passionate about the intersection of **computer science and neuroscience**. My dream is to become a **computational neuroscientist**, using code and data to help us understand how the brain works. I'm drawn to machine learning, data analysis, and building tools that have real impact on people's lives.
+My dream is to become a **computational neuroscientist**, using code and data to help us understand how the brain works. I'm passionate about machine learning, data analysis, and building tools that have real impact on people's lives.
 
 Lately, I've been interested in **open source**. I believe in learning from the community and contributing back. If you're working on something related to neurotech, AI, or social impact, I'd love to collaborate!
 
